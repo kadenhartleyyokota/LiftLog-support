@@ -54,7 +54,7 @@ Your privacy is our top priority:
 
 Need help? Have questions?
 
-- **Email:** support@liftlog.app
+- **Email:** kadenhartleyyokota@gmail.com
 - **GitHub Issues:** [Report a bug or request a feature](https://github.com/kadenhartleyyokota/LiftLog-support/issues)
 
 ## 🔄 Updates
